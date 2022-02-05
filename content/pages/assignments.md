@@ -9,22 +9,192 @@ Reading Responses
 
 Students contributed their reactions to the week's readings before each class. All student work is used with permission of the authors.
 
-| WEEK | TOPIC | RESPONSES |
-| --- | --- | --- |
-| 1 | Course introduction | None |
-| 2 | Automata ancestries | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week2)) |
-| 3 | Automation | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week3)) |
-| 4 | Cybernetics, cold wars and closed worlds | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week4)) |
-| 5 | Cybergeographies, cyberpolitics and postcolonial computing | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week5)) |
-| 6 | Robots, agents and humanlike machines | None |
-| 7 | Bioinformatics and artificial life | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week7)) |
-| 8 | Virtual identities and second lives | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week8)) |
-| 9 | Cyborgs and technobodies | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week9)) |
-| 10 | Ubiquitous, mobile and ambient computing | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week10)) |
-| 11 | Making machines: inside the R&D lab | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week11)) |
-| 12 | Project presentations | None |
-| 13 | Computing and social movements/Geeks and hactivists | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week13)) |
-| 14 | Sociomaterial re(con)figurations | ([PDF]({{< baseurl >}}/resources/mit21a_850js09_week14)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+{{< thopen >}}
+TOPIC
+{{< thclose >}}
+{{< thopen >}}
+RESPONSES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Automata ancestries
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Automation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cybernetics, cold wars and closed worlds
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Cybergeographies, cyberpolitics and postcolonial computing
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Robots, agents and humanlike machines
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Bioinformatics and artificial life
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Virtual identities and second lives
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Cyborgs and technobodies
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ubiquitous, mobile and ambient computing
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Making machines: inside the R&D lab
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Computing and social movements/Geeks and hactivists
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Sociomaterial re(con)figurations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21a_850js09_week14))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Research Project
 ----------------
