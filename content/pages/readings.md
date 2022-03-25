@@ -193,7 +193,7 @@ Kumar, Amitava, Alondra Nelson, Thuy Linh N. Tu, and Alicia Headlam Hines. "Temp
 
 Nelson, Diane. "Maya Hackers and the Cyberspatialized Nation-State: Modernity, Ethnostalgia, and a Lizard Queen in Guatemala." _Cultural Anthropology_ 11 (1996): 287-308.
 
-Sundaram, Ravi. "Recycling Modernity: Pirate Electronic Cultures in India." In _Sarai Reader_ 01: Public Domain. Delhi, India: Sarai, 2001, pp. 93-99. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.tandfonline.com/doi/abs/10.1080/09528829908576796))
+Sundaram, Ravi. "Recycling Modernity: Pirate Electronic Cultures in India." In _Sarai Reader_ 01: Public Domain. Delhi, India: Sarai, 2001, pp. 93-99. ([PDF](https://www.tandfonline.com/doi/abs/10.1080/09528829908576796))
 
 
 {{< tdclose >}}
@@ -429,7 +429,7 @@ Ubiquitous, mobile and ambient computing
 
 Green, Nicola. "On the Move: Technology, Mobility, and the Mediation of Social Time and Space." _The Information Society_ 18 (2002): 281-292.
 
-Ito, Mimi, Daisuke Okabe, and Ken Anderson. "Portable Objects in Three Global Cities: The Personalization of Urban Places." In _The Reconstruction of Space and Time Through Mobile Communication Practices_. Edited by R. Ling and S. Campbell. New Brunswick, NJ: Transaction Books, 2008. ISBN: 9781412808095. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.itofisher.com/mito/portableobjects.pdf))
+Ito, Mimi, Daisuke Okabe, and Ken Anderson. "Portable Objects in Three Global Cities: The Personalization of Urban Places." In _The Reconstruction of Space and Time Through Mobile Communication Practices_. Edited by R. Ling and S. Campbell. New Brunswick, NJ: Transaction Books, 2008. ISBN: 9781412808095. ([PDF](http://www.itofisher.com/mito/portableobjects.pdf))
 
 ### Supplementary
 
